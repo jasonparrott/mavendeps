@@ -7,6 +7,11 @@
     <groupId>test</groupId>
     <artifactId>Library2</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <scm>
+        <url>https://github.com/jasonparrott/mavendeps</url>
+        <connection>scm:git:https://github.com/jasonparrott/mavendeps.git</connection>
+        <developerConnection>scm:git:https://github.com/jasonparrott/mavendeps.git</developerConnection>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>test</groupId>
